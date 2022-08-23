@@ -1,7 +1,7 @@
 # Secured and Monitored Web Infrastructure
 
 
-https://wbd.ms/share/v2/aHR0cHM6Ly93aGl0ZWJvYXJkLm1pY3Jvc29mdC5jb20vYXBpL3YxLjAvd2hpdGVib2FyZHMvcmVkZWVtLzg1MzE2MDRkYTIzYTQ0ZmZiZGQ3NTE0YWMxNDlhYjgyX0JCQTcxNzYyLTEyRTAtNDJFMS1CMzI0LTVCMTMxRjQyNEUzRF9mYjAxOGZmNi01N2FjLTQxMmQtYWM4MS03NGFmOWI0MjU0ZGE=
+![Image of a simple web stack](2-secured_and_monitored_web_infrastructure.jpg)
 
 ## Description
 
