@@ -1,7 +1,6 @@
 # Distributed Web Infrastructure
 
-
-[Visit Board](https://miro.com/app/board/uXjVOfI6jcU=/)
+https://app.whiteboard.microsoft.com/me/whiteboards/4416f419-d37f-4fe9-9b8b-a0727982a279
 
 ## Description
 
