@@ -3,6 +3,8 @@
 
 ![Image of a simple web stack](2-secured_and_monitored_web_infrastructure.jpg)
 
+[Visit Board](https://app.whiteboard.microsoft.com/me/whiteboards/fb018ff6-57ac-412d-ac81-74af9b4254da)
+
 ## Description
 
 This is a 3-server web infrastructure that is secured, monitored, and serves encrypted traffic.
