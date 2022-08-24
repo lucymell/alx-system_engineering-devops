@@ -2,6 +2,8 @@
 
 ![Image of a simple web stack](1-distributed_web_infrastructure.jpg)
 
+[Visit Board](https://app.whiteboard.microsoft.com/me/whiteboards/4416f419-d37f-4fe9-9b8b-a0727982a279)
+
 ## Description
 
 This is a distributed web infrastructure that atttempts to reduce the traffic to the primary server by distributing some of the load to a replica server with the aid of a server responsible for balancing the load between the two servers (primary and replica).
